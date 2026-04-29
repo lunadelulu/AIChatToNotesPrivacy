@@ -1,6 +1,6 @@
 # Privacy Policy for AI Chat To Notes
 
-**Effective Date:** April 28, 2026
+**Effective Date:** April 29, 2026
 
 Thank you for choosing to use **AI Chat To Notes** ("the Extension"). We respect your privacy and are committed to protecting it. This Privacy Policy explains what information the Extension collects, how it is used, and how it is protected.
 
